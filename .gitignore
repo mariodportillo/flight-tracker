@@ -1,0 +1,7 @@
+init_gmail.py
+secret.py
+token.json
+credentials.json
+flight.log
+venv/
+__pycache__/
