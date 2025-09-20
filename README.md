@@ -1,5 +1,3 @@
- Flight Price Tracker
-
 Flight Price Tracker
 ====================
 
